@@ -1,0 +1,2 @@
+export const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3Ryb2hpdHVzZXIzMEB3ZXpib21haWwuY29tIiwicGFzc3dvcmQiOiJ0ZXN0IiwiaWF0IjoxNjk4ODE2NDQzfQ.CPOz3dtqn_SAONLX_lU8grhl9QZY7HkbT9mN0JkOSVo"
+export const url = "https://ap-south.mail.api.wezbogroup.com"
